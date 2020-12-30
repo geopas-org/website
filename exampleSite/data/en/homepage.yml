@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/2015-06-12-10-56-18.jpg
+  bg_image: images/geopas-bg.jpg
   bg_overlay: true
   title: GeoPAS Consulting
   content: Information is power. We use geographic information to give power to the
