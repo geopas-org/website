@@ -1,4 +1,4 @@
-baseURL = "http://examplesite.org"
+baseURL = "https://staging.geopas.org"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
