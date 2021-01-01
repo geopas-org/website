@@ -1,4 +1,4 @@
-baseURL = "https://staging.geopas.org"
+baseURL = "https://staging.d2c9t8epfbzbyc.amplifyapp.com/"
 disableLanguages = ['fr']
 disqusShortname = ""
 paginate = "4"
